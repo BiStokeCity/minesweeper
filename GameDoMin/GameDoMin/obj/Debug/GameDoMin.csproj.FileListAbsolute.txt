@@ -1,0 +1,13 @@
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\bin\Debug\GameDoMin.exe.config
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\bin\Debug\GameDoMin.exe
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\bin\Debug\GameDoMin.pdb
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.exe
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.pdb
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.AboutUs.resources
+c:\users\mypc\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.MineSweeper.resources
+C:\Users\MyPC\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.MyButton.resources
+C:\Users\MyPC\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.HightScore.resources
+C:\Users\MyPC\documents\visual studio 2012\Projects\GameDoMin\GameDoMin\obj\Debug\GameDoMin.EnterInformation.resources
